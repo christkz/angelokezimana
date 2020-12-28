@@ -2,6 +2,8 @@
 
 <h3 align='center'>A passionate Full Stack Web Developer</h3>
 
+<p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelokezimana&layout=compact&hide=html&theme=dark&hide_title=true" alt="Kezimana Aimé Angelo" /></p>
+
 <!--
 **angelokezimana/angelokezimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
